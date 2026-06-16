@@ -5,7 +5,7 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-const char* SSID         = "INTERNE";
+const char* SSID         = "INTERN";
 const char* PASSWORD     = "CIEL2026*";
 const char* MQTT_SERVEUR = "192.168.1.110";
 const int   MQTT_PORT    = 1883;
